@@ -1,3 +1,3 @@
 # Driving-School-Website
 ###
-![](Screenshot (2721))
+![alt text](Screenshot (2721))
