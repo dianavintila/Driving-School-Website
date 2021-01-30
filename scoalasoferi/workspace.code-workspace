@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Table_Highlight_Vertical_Horizontal\\images_"
+		},
+		{
+			"path": "..\\Table_Highlight_Vertical_Horizontal\\js_"
+		},
+		{
+			"path": "..\\Table_Highlight_Vertical_Horizontal\\vendor_"
+		},
+		{
+			"path": "..\\Table_Highlight_Vertical_Horizontal\\css_"
+		},
+		{
+			"path": "..\\Table_Highlight_Vertical_Horizontal\\fonts_"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}

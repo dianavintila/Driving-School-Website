@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito:400,900|Montserrat|Roboto");
+
+body {
+    background: linear-gradient(to right, #0575E6, #021B79);
+     overflow-x: hidden;
+ }
+
+ .container{
+    background: #fff;
+    width: 940px;
+    height: 1050px;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 5%;
+    box-shadow: 2px 5px 20px 
+    rgba (119,119, 119, .5);
+}
+
+.leftbox{
+    float: left;
+    top: -5%;
+    left: 5%;
+    position: absolute;
+    width: 15%;
+    height: 110%;
+    background: #024cac;
+    box-shadow: 3px 3px 10px
+    rgba (119,119, 119, .5);
+    border: .1em solid #fff;
+
+}
+
+
+nav a {
+    list-style: none;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+    color: #fff;
+    font-size: 1.7em;
+    display: block;
+    transition: all .3s ease-in-out;
+}
+
+nav a:hover {
+    color: #37d7ff;
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+nav a:first-child{
+    margin-top: 7px;
+    padding-right:70px;
+
+
+}
+
+nav a.active{
+    color:  #37d7ff;
+}
+
+.rightbox{
+    width: 60%;
+    margin-left: 27%;
+   padding-top: 5px;
+
+}
+
+
+.tabShow{
+    transition: all .5s ease-in;
+    width: 80%;
+    position: relative;
+    
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #7ed386;
+    font-size: 1.5rem;
+    margin-top: 40px;
+    margin-bottom: 35px;
+}
+
+h2 {
+    color: #777;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-left: 2px;
+    margin-top: 10px;
+
+}
+
+.input, p{
+    border: 0;
+    border-bottom: 1px solid #3fb6a8;
+    width: 160%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1em;
+    padding: 7px 0;
+    color: #070707;
+    outline: none;
+}
+
+span{
+    font-size: 1.3em;
+    color: #777;
+}
+
+.btn {
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    font-size: 15px;
+    border: 0;
+    color: #fff;
+    background: #7ed386;
+    box-shadow: 0px 2px 4px 0px
+    rgba (0, 0, 0, .2);
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+
+.tabShow{
+    display: none;
+}
