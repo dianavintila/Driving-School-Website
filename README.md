@@ -6,6 +6,7 @@
 - CSS
 - JS
 - PHP
+- XAMPP
 
 ## DEMO
 
