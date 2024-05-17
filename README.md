@@ -1,4 +1,12 @@
 # Driving School Website
+
+## Technologies used: 
+- MySQL
+- HTML
+- CSS
+- JS
+- PHP
+
 ### Login Page
 ![alt text](https://github.com/dianavintila/Driving-School-Website/blob/main/Screenshot%20(2721).png)
 ### Register Page
