@@ -1,6 +1,6 @@
 # Driving School Website
 
-Project for my database course year 3 semester 2 in 2021.
+Project for my database course in 2021 @ ACS.
 
 ## Technologies used: 
 - MySQL
