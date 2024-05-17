@@ -1,5 +1,7 @@
 # Driving School Website
 
+Project for my database course year 3 semester 2 in 2021.
+
 ## Technologies used: 
 - MySQL
 - HTML
